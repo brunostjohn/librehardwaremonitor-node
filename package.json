@@ -1,0 +1,22 @@
+{
+  "name": "librehardwaremonitor-node",
+  "version": "1.0.0",
+  "description": "A Node.JS library for interacting with LibreHardwareMonitor over WMI.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunostjohn/librehardwaremonitor-node.git"
+  },
+  "author": "Bruno St. John",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/brunostjohn/librehardwaremonitor-node/issues"
+  },
+  "homepage": "https://github.com/brunostjohn/librehardwaremonitor-node#readme",
+  "dependencies": {
+    "winax": "^3.3.4"
+  }
+}
